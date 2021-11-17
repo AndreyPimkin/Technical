@@ -8,4 +8,4 @@
 ### Для запуска
 подойдет любой текстовый редактор, лучше, конечно, использовать Microsoft Word.
 ### Открытый документ выглядит так:
-![image](C:\Users\pimki\Documents\Lightshot\Screenshot_53.png "Вид документа")
+![image](https://sun9-82.userapi.com/impg/gE5_uadj5peG_XchXNcaZvUYhLV84Dr80Hn3OQ/UM2KUIATMk8.jpg?size=1599x1199&quality=96&sign=41e9c6584dba7c2637074b5a7ac86569&type=album "Вид документа")
